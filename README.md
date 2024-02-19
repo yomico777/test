@@ -6,4 +6,4 @@ ssh-keygen -t rsa -C ${your_mail}
 **Затем копируем ~~приватный~~ _публичный_ ключ и добавляем его на GitHub**
 ## Если остались вопросы:
 - [Можно посмотреть информацию тут](https://losst.pro/kak-polzovatsya-ssh#opcii-komandy-ssh)
-- Или во вкладке settings в своем профиле [GitHub](https://github.com),  *там всё достаточно интуитивно*
+- Или во вкладке settings в своем профиле [GitHub](https://github.com), <br> *там всё достаточно интуитивно*
